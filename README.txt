@@ -1,5 +1,5 @@
-Thank you for downloading! To install, drag both .wotmod files from the option folder(s) of your choice to <Your WoT Directory\mods\<Game Version>
+Thank you for downloading! To install, drag the .wotmod files from the option folder(s) of your choice to <Your WoT Directory\mods\<Game Version>
 
-(Example: C:\Games\World_of_Tanks\mods\1.2.0)
+(Example: C:\Games\World_of_Tanks\mods\1.7.0.2)
 
 Made by FastestClassic.
